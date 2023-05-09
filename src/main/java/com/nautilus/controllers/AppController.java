@@ -26,7 +26,7 @@ class AppController {
                 .concat(" é: ")
                 .concat(String.valueOf(Math.sqrt(Double.parseDouble(value))));
         } catch (NumberFormatException e) {
-            msg = "O dado informado não pode ser calculado. "
+            msg = "O dado informado não é um número. "
                 .concat(e.getMessage());
         }
         
