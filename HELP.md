@@ -1,9 +1,9 @@
 # Getting Started
-# git-key-temp: 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
 
 ### Reference Documentation
 For further reference, please consider the following sections:
 
+* git-key-temp: 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
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.0.6/maven-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.0.6/maven-plugin/reference/html/#build-image)
