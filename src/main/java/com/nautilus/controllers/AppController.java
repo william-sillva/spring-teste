@@ -14,7 +14,7 @@ class AppController {
 
     @GetMapping(value = "/{name}")
     public String test(@PathVariable("name") String name) {
-        return "Application Docker AWS-EC2 -> ".concat(name);
+        return "Docker Application AWS-EC2 -> ".concat(name);
     }
 
     @PostMapping
