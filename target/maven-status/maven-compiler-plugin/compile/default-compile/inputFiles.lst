@@ -1,2 +1,3 @@
 /app/src/main/java/com/nautilus/app/AppApplication.java
+/app/src/main/java/com/nautilus/entities/Calc.java
 /app/src/main/java/com/nautilus/controllers/AppController.java
